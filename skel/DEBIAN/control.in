@@ -1,0 +1,7 @@
+Package:  helloworld
+Section:  utilities
+Priority:  extra
+Version:  @@VERSION@@
+Architecture:amd64
+Maintainer:  joe@iachieved.it
+Description:  An complete example of Hello World written in C.
